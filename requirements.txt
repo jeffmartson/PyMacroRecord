@@ -3,3 +3,4 @@ pynput==1.7.6
 pystray==0.19.5
 Requests==2.31.0
 win10toast==0.9
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
